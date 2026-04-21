@@ -1,3 +1,10 @@
+<style>
+/* 强制菜单导航靠右 */
+.nav__menu {
+  justify-content: flex-end !important;
+  text-align: right !important;
+}
+</style>
 ---
 permalink: /
 title: Ding-Yong
