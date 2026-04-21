@@ -51,4 +51,9 @@ This project focuses on liquid metal sensor characteristics, sensor selection, a
 h1, h2, h3, h4, h5, h6 {
   color: #003366 !important;
 }
+/* 全文两端对齐 */
+.page__content {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+}
 </style>
