@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: Ding-Yong
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -48,7 +48,7 @@ This project focuses on liquid metal sensor characteristics, sensor selection, a
 
 <style>
 /* 强制所有标题变蓝色 */
-h1, h2, h3, h4, h5, h6 {
+h2, {
   color: #004d99 !important;
 }
 /* 全文两端对齐 */
