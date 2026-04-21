@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : ""
 title_separator          : ""
-name                     : &name "Ding-Yong(丁勇)"
+name                     : &name "Ding-Yong"
 description              : &description "Ding-Yong's academic portfolio"
 url                      : https://ding-yong.github.io
 baseurl                  : ""
@@ -21,7 +21,7 @@ repository               : "ding-yong/ding-yong.github.io"
 author:
   # Biographic information
   avatar           : "dy.png"
-  name             : "Ding-Yong"
+  name             : "Ding-Yong(丁勇)"
   pronouns         :
   bio              : "Ph.D. Candidate at Northeastern University"
   location         : "Shenyang, China"
