@@ -6,9 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-# Ding-Yong
-Ph.D. Candidate | Northeastern University
-
 ## Biography
 Ding-Yong was born in October 1998, from Shandong Province, China. He is a CPC member and a member of the Chinese Biotechnology Association. He is currently pursuing his Ph.D. degree in Biomedical Engineering at Northeastern University.
 
