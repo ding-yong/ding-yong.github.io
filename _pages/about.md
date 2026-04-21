@@ -56,15 +56,4 @@ h2 {
   text-align: justify !important;
   text-justify: inter-word !important;
 }
-/* 深色模式切换按钮 置顶最右侧 精准适配你的主题 */
-.nav-wrap {
-  position: relative !important;
-}
-.theme-toggle {
-  position: absolute !important;
-  right: 0 !important;
-  top: 6px !important;
-  transform: none !important;
-  margin: 0 !important;
-}
 </style>
