@@ -46,3 +46,9 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 
 This project focuses on liquid metal sensor characteristics, sensor selection, anatomical structure design, prototype development of smart wearable devices, and algorithm integration. The system is widely used in human–computer interaction and motion monitoring, and the product has been launched.
 
+<style>
+/* 强制所有标题变蓝色 */
+h1, h2, h3, h4, h5, h6 {
+  color: #003366 !important;
+}
+</style>
