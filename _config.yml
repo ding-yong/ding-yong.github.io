@@ -20,7 +20,7 @@ repository               : "ding-yong/ding-yong.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "images/dy.png"
+  avatar           : "dy.png"
   name             : "Ding-Yong"
   pronouns         :
   bio              : "Ph.D. Candidate at Northeastern University"
