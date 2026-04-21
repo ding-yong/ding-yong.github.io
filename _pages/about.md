@@ -9,9 +9,7 @@ redirect_from:
 ## Biography
 Ding-Yong was born in October 1998, from Shandong Province, China. He is a CPC member and a member of the Chinese Biotechnology Association. He is currently pursuing his Ph.D. degree in Biomedical Engineering at Northeastern University.
 
-His research focuses on **embodied intelligence, smart wearable devices, human motion perception, and multimodal signal processing**. He has published papers in leading journals including *IEEE Transactions on Human-Machine Systems*, *IEEE Journal of Biomedical and Health Informatics*, *IEEE Transactions on Instrumentation and Measurement*, and *IEEE/ASME Transactions on Mechatronics* (all JCR Q1 / CAS Top). He also owns authorized invention patents and has strong capabilities in both academic research and technology translation.
-
-He serves as a reviewer for numerous international journals and conferences.
+His research focuses on **embodied intelligence, smart wearable devices, human motion perception, and multimodal signal processing**. He has published papers in leading journals including *IEEE Transactions on Human-Machine Systems*, *IEEE Journal of Biomedical and Health Informatics*, *IEEE Transactions on Instrumentation and Measurement*, and *IEEE/ASME Transactions on Mechatronics*. He also owns authorized invention patents and has strong capabilities in both academic research and technology translation.
 
 ## Education
 - **Ph.D. in Biomedical Engineering**  
