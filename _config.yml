@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Ding-Yong"
 title_separator          : ""
-name                     : &name ""
+name                     : "丁勇"
 description              : &description "Ding-Yong's academic portfolio"
 url                      : https://ding-yong.github.io
 baseurl                  : ""
