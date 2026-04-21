@@ -7,7 +7,7 @@
 </style>
 ---
 permalink: /
-title: Ding-Yong
+title: 
 author_profile: true
 redirect_from: 
   - /about/
