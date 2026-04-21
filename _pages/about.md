@@ -41,7 +41,7 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 - Authorized Invention Patent: *A Finger Motion Tracking Method and System Based on Compressed Sensing Model*
 
 ## Industrial Collaboration
-### Research and Development of Smart Wearable Devices Based on Liquid Metal Sensors
+Research and Development of Smart Wearable Devices Based on Liquid Metal Sensors
 *Collaboration with Shanghai Yudie Intelligent Technology Co., Ltd.*
 
 This project focuses on liquid metal sensor characteristics, sensor selection, anatomical structure design, prototype development of smart wearable devices, and algorithm integration. The system is widely used in human–computer interaction and motion monitoring, and the product has been launched.
