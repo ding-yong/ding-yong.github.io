@@ -22,7 +22,8 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 - **Reviewer**:  
   *IEEE Transactions on Systems, Man, and Cybernetics: Systems*  
   *Scientific Reports*  
-  IWACCE 2026, BIBE 2026  
+  *IWACCE 2026, BIBE 2026*
+  *BIBE 2026*
   *Exploration of Digital Health Technologies*  
   *Sustainable Social Development*  
   *Mathematical Methods in Data Science*
@@ -31,8 +32,8 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 1. **Ding Y**, Zou M, Teng Y, et al. CST framework: A robust and portable finger motion tracking framework. *IEEE Transactions on Human-Machine Systems*, 2024, 54(3): 282-291. (First Author, Q1, CCF-B)
 2. **Ding Y**, Nan T, Wang F, et al. Data knee pads: a lower limb motion capture system based on heterogeneous sensors. *IEEE Journal of Biomedical and Health Informatics*, 2025. (First Author, Q1, CCF-C, Top)
 3. **Ding Y**, Wang L, Nan T, et al. AG-Pose: Anatomy-Guided Human Pose Estimation With Sparse IMUs. *IEEE Transactions on Instrumentation and Measurement*, 2025, 74: 1-10. (First Author, Q1, Top)
-4. Cui X, **Ding Y**, Nan T, et al. A Finger Motion Tracking Framework for Human–Computer Interaction Based on Data Gloves. *IEEE/ASME Transactions on Mechatronics*, 2026. (Second Author, Q1, Top)
-5. Liu H, Li D, Chu H, et al. Ultra-stretchable triboelectric touch pad with sandpaper micro-surfaces for Transformer-assisted gesture recognition. *Nano Energy*, 2024, 130: 110110. (Q1, Top)
+4. Cui X, **Ding Y**, Nan T, et al. A Finger Motion Tracking Framework for Human–Computer Interaction Based on Data Gloves. *IEEE/ASME Transactions on Mechatronics*, 2026. (Co-Author, Q1, Top)
+5. Liu H, Li D, Chu H, et al. Ultra-stretchable triboelectric touch pad with sandpaper micro-surfaces for Transformer-assisted gesture recognition. *Nano Energy*, 2024, 130: 110110. (Co-Author, Q1, Top)
 
 ## Conference Presentation
 - Oral Presentation, Intelligent Robotics Session, The 9th International Conference on Mechanical, Electrical and Industrial Engineering (MEIE 2026)
