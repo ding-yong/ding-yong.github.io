@@ -6,6 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+/* 深色模式按钮 固定最右侧 */
+.theme-toggle {
+  position: absolute !important;
+  right: 2rem !important;
+  top: 1rem !important;
+  margin: 0 !important;
+}
+
+/* 导航菜单靠左，开关单独钉在最右 */
+.main-nav {
+  position: relative !important;
+}
+</style>
 ## Biography
 Ding-Yong was born in October 1998, from Shandong Province, China. He is a CPC member and a member of the Chinese Biotechnology Association. He is currently pursuing his Ph.D. degree in Biomedical Engineering at Northeastern University.
 
