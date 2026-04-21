@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ding-Yong"
+title                    : "Ding-Yong(丁勇)"
 title_separator          : "-"
 name                     : &name "Ding-Yong"
 description              : &description "Ding-Yong's academic portfolio"
