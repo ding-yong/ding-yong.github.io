@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Ding-Yong"
 title_separator          : ""
-name                     : &name "Ding-Yong"
+name                     : &name ""
 description              : &description "Ding-Yong's academic portfolio"
 url                      : https://ding-yong.github.io
 baseurl                  : ""
