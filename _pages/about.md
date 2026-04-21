@@ -1,5 +1,6 @@
 ---
 permalink: /
+title:"丁勇 | Ding-Yong"
 author_profile: true
 redirect_from: 
   - /about/
