@@ -56,4 +56,8 @@ h2 {
   text-align: justify !important;
   text-justify: inter-word !important;
 }
+
+.theme-toggle {
+  display: none !important;
+}
 </style>
