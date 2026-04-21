@@ -8,12 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "Research"
+    url: "https://www.dingyong.me/about"
     
   - title: "CV"
     url: "https://www.dingyong.me/archives/Profile"
-    
+
+  - title: "Contact"
+    url: "https://www.dingyong.me/contact"
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
