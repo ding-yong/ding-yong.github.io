@@ -21,8 +21,8 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 - **Reviewer**:  
   *IEEE Transactions on Systems, Man, and Cybernetics: Systems*  
   *Scientific Reports*  
-  *IWACCE 2026, BIBE 2026*
-  *BIBE 2026*
+  *IWACCE 2026*  
+  *BIBE 2026*  
   *Exploration of Digital Health Technologies*  
   *Sustainable Social Development*  
   *Mathematical Methods in Data Science*
