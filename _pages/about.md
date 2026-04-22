@@ -38,7 +38,7 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 - Oral Presentation, Intelligent Robotics Session, The 9th International Conference on Mechanical, Electrical and Industrial Engineering (MEIE 2026)
 
 ## Patents
-- Authorized Invention Patent: *A Finger Motion Tracking Method and System Based on Compressed Sensing Model*<img src="/images/CNIPAlogo.png" alt="国家知识产权局" style="width: 50px; height: auto; vertical-align: middle; margin-right: 8px;">
+- Authorized Invention Patent: *A Finger Motion Tracking Method and System Based on Compressed Sensing Model*<img src="/images/CNIPAlogo.png" alt="国家知识产权局" style="width: 70px; height: auto; vertical-align: middle; margin-right: 8px;">
 
 ## Industrial Collaboration
 Research and Development of Smart Wearable Devices Based on Liquid Metal Sensors
