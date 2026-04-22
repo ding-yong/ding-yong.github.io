@@ -12,9 +12,9 @@ Ding-Yong was born in October 1998, from Shandong Province, China. He is a CPC m
 His research focuses on **embodied intelligence, smart wearable devices, human motion perception, and multimodal signal processing**. He has published papers in leading journals including *IEEE Transactions on Human-Machine Systems*, *IEEE Journal of Biomedical and Health Informatics*, *IEEE Transactions on Instrumentation and Measurement*, and *IEEE/ASME Transactions on Mechatronics*. He also owns authorized invention patents.
 
 ## Education
-- <img src="/images/neu.png" alt="NEU校徽" style="width: 22px; height: auto; vertical-align: middle; margin-right: 8px;"> **Ph.D. in Biomedical Engineering**  Northeastern University, Sep. 2024 – Present
-- <img src="/images/neu.png" alt="NEU校徽" style="width: 22px; height: auto; vertical-align: middle; margin-right: 8px;"> **M.Eng. in Electronic Information**  Northeastern University, Sep. 2021 – Jun. 2024
-- <img src="/images/neu.png" alt="NEU校徽" style="width: 22px; height: auto; vertical-align: middle; margin-right: 8px;"> **B.Eng. in Biomedical Engineering**  Northeastern University, Sep. 2017 – Jun. 2021
+-  **Ph.D.  in Biomedical Engineering**  <img src="/images/neu.png" alt="NEU校徽" style="width: 22px; height: auto; vertical-align: middle; margin-right: 8px;">Northeastern University, Sep. 2024 – Present
+-  **M.Eng. in Electronic Information**  <img src="/images/neu.png" alt="NEU校徽" style="width: 22px; height: auto; vertical-align: middle; margin-right: 8px;">Northeastern University, Sep. 2021 – Jun. 2024
+-  **B.Eng. in Biomedical Engineering**  <img src="/images/neu.png" alt="NEU校徽" style="width: 22px; height: auto; vertical-align: middle; margin-right: 8px;">Northeastern University, Sep. 2017 – Jun. 2021
 
 ## Academic Services
 - **Member**: Chinese Biotechnology Association
