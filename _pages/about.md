@@ -35,7 +35,7 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 5. Liu H, Li D, Chu H, et al. Ultra-stretchable triboelectric touch pad with sandpaper micro-surfaces for Transformer-assisted gesture recognition. *Nano Energy*, 2024, 130: 110110. (Co-Author, Q1, Top)
 
 ## Conference Presentation
-- Oral Presentation, Intelligent Robotics Session, The 9th International Conference on Mechanical, Electrical and Industrial Engineering (MEIE 2026)
+- Oral Presentation, Intelligent Robotics Session, The 9th International Conference on Mechanical, Electrical and Industrial Engineering (MEIE 2026)<img src="/images/MEIE2026.png" alt="MEIE" style="width: 22px; height: auto; vertical-align: middle; margin-right: 8px;">
 
 ## Patents
 - Authorized Invention Patent: *A Finger Motion Tracking Method and System Based on Compressed Sensing Model*<img src="/images/CNIPAlogo.png" alt="国家知识产权局" style="width: 70px; height: auto; vertical-align: middle; margin-right: 8px;">
