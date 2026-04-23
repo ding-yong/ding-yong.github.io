@@ -8,7 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-
+  - title: "中文主页"
+    url: "https://www.dingyong.me/archives/Profile"
+    
   - title: "Research"
     url: "https://www.dingyong.me/about"
     
@@ -17,9 +19,6 @@ main:
     
   - title: "Web of Science "
     url: "https://www.webofscience.com/wos/author/record/PFZ-9363-2026"
-    
-  - title: "CV"
-    url: "https://www.dingyong.me/archives/Profile"
 
   - title: "Contact"
     url: "https://www.dingyong.me/contact"
