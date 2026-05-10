@@ -19,14 +19,14 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 ## Academic Services
 - **Member**: Chinese Biotechnology Association<img src="/images/CSBT.png" alt="中国生物工程学会" style="width: 100px; height: auto; vertical-align: middle; margin-right: 8px;">
 - **Reviewer**:  
-  **-** *IEEE Transactions on Systems, Man, and Cybernetics: Systems;* <br>
-  **-** *Scientific Reports;* <br>
-  **-** *Exploration of Digital Health Technologies;* <br>
-  **-** *Sustainable Social Development;* <br>
-  **-** *Mathematical Methods in Data Science;* <br>
-  **-** *The 3rd International Conference on Intelligent Systems and Robotics (CISR2026);* <br>
-  **-** *The 5th International Workshop on Automation, Control and Communication Engineering (IWACCE2026);* <br>
-  **-** *The 26th annual IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2026); etc.* <br>
+  **Journals** *IEEE Transactions on Systems, Man, and Cybernetics: Systems;* <br>
+  **Journals** *Scientific Reports;* <br>
+  **Journals** *Exploration of Digital Health Technologies;* <br>
+  **Journals** *Sustainable Social Development;* <br>
+  **Journals** *Mathematical Methods in Data Science;* <br>
+  **Conferences** *The 3rd International Conference on Intelligent Systems and Robotics (CISR2026);* <br>
+  **Conferences** *The 5th International Workshop on Automation, Control and Communication Engineering (IWACCE2026);* <br>
+  **Conferences** *The 26th annual IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2026); etc.* <br>
 
 ## Selected Publications
 1. **Ding Y**, Zou M, Teng Y, et al. CST framework: A robust and portable finger motion tracking framework. *IEEE Transactions on Human-Machine Systems*, 2024, 54(3): 282-291. (First Author, Q1, CCF-B)
