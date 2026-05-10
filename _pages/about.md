@@ -17,7 +17,7 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 -  <img src="/images/neu.png" alt="NEU校徽" style="width: 22px; height: auto; vertical-align: middle; margin-right: 8px;">**Northeastern University**  B.Eng. in Biomedical Engineering, Sep. 2017 – Jun. 2021
 
 ## Academic Services
-**Member**: Chinese Biotechnology Association<img src="/images/CSBT.png" alt="中国生物工程学会" style="width: 100px; height: auto; vertical-align: middle; margin-right: 8px;">
+**Member**: Chinese Biotechnology Association<img src="/images/CSBT.png" alt="中国生物工程学会" style="width: 100px; height: auto; vertical-align: middle; margin-right: 8px;"><br>
 **Reviewer**:<br>
 - *IEEE Transactions on Systems, Man, and Cybernetics: Systems;* <br style="line-height: 1.8;">
 - *Scientific Reports;* <br style="line-height: 1.8;">
