@@ -18,7 +18,7 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 
 ## Academic Services
 **Member**: Chinese Biotechnology Association<img src="/images/CSBT.png" alt="中国生物工程学会" style="width: 100px; height: auto; vertical-align: middle; margin-right: 8px;"><br>
-**Reviewer**:<br>
+**Reviewer**: <br>
 - *IEEE Transactions on Systems, Man, and Cybernetics: Systems;* <br style="line-height: 1.8;">
 - *Scientific Reports;* <br style="line-height: 1.8;">
 - *Exploration of Digital Health Technologies;* <br style="line-height: 1.8;">
