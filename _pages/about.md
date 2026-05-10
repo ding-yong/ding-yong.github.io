@@ -25,7 +25,7 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
   *Sustainable Social Development*  
   *Mathematical Methods in Data Science*
   *The 3rd International Conference on Intelligent Systems and Robotics (CISR2026)*
-  *The 5th International Workshop on Automation, Control and Communication Engineering (lWACCE2026)*  
+  *The 5th International Workshop on Automation, Control and Communication Engineering (IWACCE2026)*  
   *The 26th annual IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2026)*  
 
 ## Selected Publications
