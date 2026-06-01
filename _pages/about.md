@@ -21,6 +21,7 @@ His research focuses on **embodied intelligence, smart wearable devices, human m
 - **Reviewer**: <br>
   *IEEE Transactions on Systems, Man, and Cybernetics: Systems;* <br>
   *Scientific Reports;* <br>
+  *The Journal of Supercomputing;* <br>
   *Exploration of Digital Health Technologies;* <br>
   *Sustainable Social Development;* <br>
   *Mathematical Methods in Data Science;* <br>
